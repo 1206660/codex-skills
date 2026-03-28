@@ -1,0 +1,8 @@
+interface:
+  display_name: "Godot UI Reskin"
+  short_description: "Refresh a Godot UI by reusing the project's current themes, icons, fonts, and scene assets"
+  default_prompt: "Use $godot-ui-reskin-from-assets to reskin a Godot 4.x main menu, HUD, or dialog stack by reusing the project's existing themes, icons, label settings, panels, and textures instead of inventing a new art set."
+
+policy:
+  allow_implicit_invocation: true
+
