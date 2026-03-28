@@ -1,0 +1,8 @@
+interface:
+  display_name: "Godot ML Autobot"
+  short_description: "Build reusable ML-driven autoplay and headless evaluation bots for Godot 4.6 .NET projects"
+  default_prompt: "Use $godot-ml-autobot to design or migrate a Godot 4.6 .NET machine-learning autotest bot with trajectory logging, headless workers, and learned tactical policies."
+
+policy:
+  allow_implicit_invocation: true
+
