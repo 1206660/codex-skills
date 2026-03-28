@@ -1,0 +1,8 @@
+interface:
+  display_name: "Init Godot Game"
+  short_description: "Scaffold a Godot 4.x project structure, ignore rules, and a base UI shell from existing assets"
+  default_prompt: "Use $init-godot-game to initialize or restructure a Godot 4.x game project with a clean directory scaffold, merged .gitignore, and a starter UI shell that reuses the project's current themes and UI assets."
+
+policy:
+  allow_implicit_invocation: true
+
