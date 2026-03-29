@@ -1,0 +1,7 @@
+interface:
+  display_name: "Unity Restore From Build"
+  short_description: "Recover a usable Unity project from a built player or extracted Unity game folder"
+  default_prompt: "Use $unity-restore-project-from-build to inspect this Unity build, detect the editor version and scripting backend, recover the maximum viable Unity project into a separate restore directory, and document what was restored versus what remains approximate."
+
+policy:
+  allow_implicit_invocation: true
