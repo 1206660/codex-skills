@@ -1,10 +1,10 @@
 # Iteration Ledger Template
 
-Use a compact ledger for the active milestone.
+Use a compact ledger for the active task.
 
-## Milestone
+## Current Ask
 
-- Target:
+- Active request:
 - Primary metric:
 - Verification command:
 
@@ -35,4 +35,3 @@ Use a compact ledger for the active milestone.
 
 - Narrow hypothesis:
 - Planned verification:
-

@@ -2,7 +2,7 @@
 
 ## Skills
 
-- `milestone-iteration-loop`
+- `loop`
 - `godot-ml-autobot`
 - `init-godot-game`
 - `godot-ui-reskin-from-assets`

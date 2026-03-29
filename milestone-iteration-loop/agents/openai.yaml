@@ -1,8 +1,0 @@
-interface:
-  display_name: "Milestone Iteration Loop"
-  short_description: "Continuously iterate in batches until a concrete milestone is verified"
-  default_prompt: "Use $milestone-iteration-loop to keep iterating toward a concrete milestone instead of stopping after one pass."
-
-policy:
-  allow_implicit_invocation: true
-

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Loop"
+  short_description: "Continuously iterate until the user's current ask is fully complete"
+  default_prompt: "Use $loop to keep iterating from the latest user intent until the current task is fully complete instead of stopping after one pass."
+
+policy:
+  allow_implicit_invocation: true
