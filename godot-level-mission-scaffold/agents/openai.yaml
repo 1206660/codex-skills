@@ -1,0 +1,8 @@
+interface:
+  display_name: "Godot Level Mission Scaffold"
+  short_description: "Scaffold level, mission, and encounter content structure for a Godot 4.x project"
+  default_prompt: "Use $godot-level-mission-scaffold to create or clean up a Godot 4.x level and mission content layout with clear folder boundaries, scene-resource-script ownership, and reusable mission seams."
+
+policy:
+  allow_implicit_invocation: true
+

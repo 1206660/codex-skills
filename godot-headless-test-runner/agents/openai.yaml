@@ -1,0 +1,8 @@
+interface:
+  display_name: "Godot Headless Test Runner"
+  short_description: "Standardize headless smoke, suite, and multi-worker batch runs for Godot 4.x projects"
+  default_prompt: "Use $godot-headless-test-runner to set up or clean up a Godot 4.x headless test pipeline with consistent run modes, isolated artifacts, worker-safe directories, and reliable exit-code semantics."
+
+policy:
+  allow_implicit_invocation: true
+
